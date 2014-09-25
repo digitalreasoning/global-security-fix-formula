@@ -1,0 +1,10 @@
+title: DR global orchestration bugfixes
+description: Provides global fixes for known vulnerabilities
+root_path: dr
+components:
+  - title: Global orchestration bugfixes
+    description: Global orchestration bugfixes
+    sls_path: dr.bugfix
+
+pillar_defaults:
+  dr.bugfix:
