@@ -5,3 +5,7 @@ components:
   - title: Global orchestration bugfixes
     description: Global orchestration bugfixes
     sls_path: dr.bugfix
+
+pillar_defaults:
+  dr.bugfix:
+    -
